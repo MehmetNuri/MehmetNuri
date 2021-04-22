@@ -30,6 +30,8 @@ I am currently studying Software Engineering at Netkent Research and Science Uni
 [![Redhat Badge](https://img.shields.io/badge/Redhat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](#)
 
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
+[![Redhat Open Shift Badge](https://img.shields.io/badge/RedHatOpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)](#)
 [![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
 [![Ansible Badge](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](#)
 [![Amazon AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
@@ -38,6 +40,7 @@ I am currently studying Software Engineering at Netkent Research and Science Uni
 [![Postgresql Badge](https://img.shields.io/badge/Postgresql-337691?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![Graphql Badge](https://img.shields.io/badge/Graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
 [![Elastic Search Badge](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](#)
+[![Apache Cassandra Search Badge](https://img.shields.io/badge/ApacheCassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)](#)
 
 
 ### Contact with me via these platforms!
