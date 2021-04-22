@@ -17,7 +17,11 @@ I am currently studying Software Engineering at Netkent Research and Science Uni
 [![Lumen Badge](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=lumen&logoColor=white)](#)
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 
-[![Nodejs Badge](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white)](#)
+[![Apache Maven Badge](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](#)
+[![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](#)
+
+[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node&logoColor=white)](#)
+[![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
@@ -29,6 +33,7 @@ I am currently studying Software Engineering at Netkent Research and Science Uni
 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Redhat Badge](https://img.shields.io/badge/Redhat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](#)
 
+[![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 [![Redhat Open Shift Badge](https://img.shields.io/badge/RedHatOpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)](#)
