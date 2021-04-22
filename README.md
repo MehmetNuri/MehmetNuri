@@ -22,6 +22,7 @@ I am currently studying Software Engineering at Netkent Research and Science Uni
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
+[![Thymeleaf Badge](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)](#)
 
 [![GNU Bash Badge](https://img.shields.io/badge/GnuBash-4EEA25?style=for-the-badge&logo=gnu-bash&logoColor=black)](#)
 [![FreeBSD Badge](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)](#)
