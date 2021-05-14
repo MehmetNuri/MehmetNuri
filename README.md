@@ -56,5 +56,7 @@ I am currently studying Software Engineering at Netkent Research and Science Uni
  
  
  ![GitHub followers](https://img.shields.io/github/followers/mehmetnuri?color=black&label=Mehmet%20Nuri&logo=github&logoColor=red&style=social)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetnuri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
