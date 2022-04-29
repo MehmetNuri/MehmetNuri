@@ -47,4 +47,4 @@ I am currently studying Software Engineering at Netkent Research and Science Uni
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetnuri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Profile views](https://gpvc.arturio.dev/mehmetnuri)  
