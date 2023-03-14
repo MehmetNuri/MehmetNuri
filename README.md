@@ -13,7 +13,7 @@ I am currently working as a team leader at Universal Yazılım A.Ş. .
 
 
 
-
+[![Quarkus Badge](https://img.shields.io/badge/Quarqus-2496ED?style=for-the-badge&logo=quarkus&logoColor=white&labelColor=black)](#)
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 
 [![Apache Maven Badge](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](#)
