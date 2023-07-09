@@ -41,7 +41,9 @@ I am currently working as a team leader at Universal Yazılım A.Ş. .
  
  
  ![GitHub followers](https://img.shields.io/github/followers/mehmetnuri?color=black&label=Mehmet%20Nuri&logo=github&logoColor=red&style=social)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetnuri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/mehmetnuri)  
+ 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mehmetnuri)](https://github.com/mehmetnuri/mehmetnuri)
+
+
+
