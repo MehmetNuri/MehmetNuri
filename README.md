@@ -1,7 +1,7 @@
 
 ### Hello, I'm Mehmet Nuri 👋!
 
-I have been working as a software developer since 2011. I continue to work on open source software and Linux.
+I was introduced to software development in 2011. I continue to work on open source software and Linux.
 I am currently working as a principal software specialist at  **[Etiya](https://github.com/Etiya)**
 
 
@@ -9,9 +9,6 @@ I am currently working as a principal software specialist at  **[Etiya](https://
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
-
-
-
 
 
 [![Quarkus Badge](https://img.shields.io/badge/Quarqus-2496ED?style=for-the-badge&logo=quarkus&logoColor=white&labelColor=black)](#)
@@ -36,13 +33,10 @@ I am currently working as a principal software specialist at  **[Etiya](https://
 
 ### Contact with me via these platforms!
 
-<a href="https://www.twitter.com/codemnx/" target="_blank" rel="nofollow"><img alt="Mehmet Nuri's Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mehmetnuri/" target="_blank" rel="nofollow"><img alt="Mehmet Nuri's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:info@mehmetnuri.net" target="_blank" rel="nofollow"><img alt="Mehmet Nuri's Mail Address" src="https://img.shields.io/badge/E-Mail-D14836?style=for-the-badge&logo=mailru&logoColor=white" /></a>
+<a href="mailto:info@mehmetnuri.net" target="_blank" rel="nofollow"><img alt="Mehmet Nuri's Mail Address" src="https://img.shields.io/badge/E-Mail-D14836?style=for-the-badge&logo=mailru&logoColor=white" /></a>
  
- 
- ![GitHub followers](https://img.shields.io/github/followers/mehmetnuri?color=black&label=Mehmet%20Nuri&logo=github&logoColor=red&style=social)
-
+![GitHub followers](https://img.shields.io/github/followers/mehmetnuri?color=black&label=Mehmet%20Nuri&logo=github&logoColor=red&style=social)
  
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mehmetnuri)](https://github.com/mehmetnuri/mehmetnuri)
 
