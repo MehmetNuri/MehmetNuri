@@ -2,7 +2,8 @@
 ### Hello, I'm Mehmet Nuri 👋!
 
 I have been working as a software developer since 2011. I continue to work on open source software and Linux.
-I am currently working as a team leader at Universal Yazılım A.Ş. .
+I am currently working as a principal software specialist at  **[Etiya](https://github.com/Etiya)**
+
 
 ### Technologies I'm Interested In Are:
 
