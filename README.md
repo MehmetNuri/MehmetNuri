@@ -31,6 +31,7 @@ I am currently working as a principal software specialist at  **[Etiya](https://
 [![Postgresql Badge](https://img.shields.io/badge/Postgresql-337691?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
 
+
 ### Contact with me via these platforms!
 
 <a href="https://www.linkedin.com/in/mehmetnuri/" target="_blank" rel="nofollow"><img alt="Mehmet Nuri's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -39,6 +40,10 @@ I am currently working as a principal software specialist at  **[Etiya](https://
 ![GitHub followers](https://img.shields.io/github/followers/mehmetnuri?color=black&label=Mehmet%20Nuri&logo=github&logoColor=red&style=social)
  
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mehmetnuri)](https://github.com/mehmetnuri/mehmetnuri)
+
+
+
+[![works on my machine](https://badger-wtf.vercel.app/api/v1/image?borderColor=%23113f3d&borderWidth=4&startBg=%23ffffff&startText=%23113f3d&startLabel=works+on&endBg=%23d12c2c&endText=%23ffffff&endLabel=my+machine&rtl=0)](#)
 
 
 
