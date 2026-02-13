@@ -138,9 +138,14 @@ const skills = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmetnuri&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetnuri&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8"/>
+
+<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=mehmetnuri&theme=dark" />
+
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetnuri&theme=dark" />
+
 </div>
+
+
 
 ---
 
