@@ -139,11 +139,12 @@ const skills = {
 
 <div align="center">
 
-<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=mehmetnuri&theme=dark" />
+<img width="48%" src="https://stats.hyo.dev/api/github-stats-advanced?login=mehmetnuri&theme=dark" />
 
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetnuri&theme=dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehmetnuri&theme=dark" />
 
 </div>
+
 
 
 
